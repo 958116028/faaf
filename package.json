@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "apibus": "^1.0.9",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "el-search-table-pagination": "^0.4.28",
     "element-ui": "2.4.6",
     "hook-promise": "^1.0.1",
