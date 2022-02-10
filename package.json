@@ -21,7 +21,7 @@
     "hook-promise": "^1.0.1",
     "iview": "^3.2.2",
     "log4web": "^1.0.1",
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.0",
     "sass-loader": "7.0.3",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
